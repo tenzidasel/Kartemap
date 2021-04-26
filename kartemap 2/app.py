@@ -1,5 +1,7 @@
+
 # Tenzin Dasel and Kelly Zheng
 # Assignment 1: Kartemap
+# Github link : https://github.com/tenzidasel/map (Shared with Kelly Zheng)
 
 from operator import itemgetter
 
@@ -10,9 +12,6 @@ import dash_html_components as html
 import dash_table
 
 traces = []
-
-lon = 0
-lat = 0
 
 from dash.dependencies import Input, Output, State
 
